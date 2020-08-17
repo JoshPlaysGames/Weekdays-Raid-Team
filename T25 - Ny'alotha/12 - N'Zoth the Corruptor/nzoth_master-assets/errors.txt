@@ -1,0 +1,1 @@
+[2020-8-12 17:51:23] layer "AnguishPlacements.png": Duplicate path: AnguishPlacements.png
